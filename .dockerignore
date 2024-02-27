@@ -1,0 +1,11 @@
+# Ignore .conda directory
+.conda/
+
+# Ignore artifacts directory
+artifacts/
+
+# Ignore wandb directory
+wandb/
+
+# Ignore Jupyter Notebook files
+*.ipynb
