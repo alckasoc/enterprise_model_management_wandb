@@ -51,4 +51,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("it works!")
+    exit(0)
