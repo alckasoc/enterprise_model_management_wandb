@@ -4,6 +4,7 @@
 FROM python:3.11-slim-bookworm
 
 # setup workdir
+USER root
 WORKDIR /root/src
 RUN mkdir -p /root/src
 COPY . /root/src/
